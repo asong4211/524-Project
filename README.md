@@ -1,4 +1,5 @@
-# Building Megapolis, City Planning using Optimization
+# Building Megapolis
+## City Planning using Optimization
 
 Building a city from the ground up is not a radically new idea. After some online research, we found that a lot of countries have tackled the projects of building a city from the ground up. We decided to use Julia lang, along with some other Julia packages and optimization solvers to find out how to use optimization to solve the city planning problems. We modeled our project into three different parts, progressively built on top of each one. 
 
